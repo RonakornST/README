@@ -38,8 +38,8 @@ cs-dlp -ca {CAUTH_TOKEN} --format "{FILE_FORMATS}" {YOUR_COURSE_NAME}
 ---
 
 ### How to Get Your {CAUTH Token}
-1. Open the course website in your browser.
-2. Use Developer Tools to copy the `CAUTH` token (refer to this video at 2:22 for guidance: [Video Link](https://www.youtube.com/watch?v=fDCln4C0zbI&t=64s)).
+1. Open the course website in your browser and login with your account.
+2. Open Developer Tools then go to Application tab to copy the `CAUTH` token (refer to this video at 2:22 for guidance: [Video Link](https://www.youtube.com/watch?v=fDCln4C0zbI&t=64s)).
 
 ---
 
