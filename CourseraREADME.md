@@ -69,6 +69,3 @@ cs-dlp -ca XifMIVia4JPHxAmSk0E9zxh_dkIf9x1i_K7L5tkcjcMUolNTZol3BCEI-BqVmd9l-z3Xm
 cs-dlp -ca tAYDKK9-UhvkbIR0sa__AtvGVCw8Jh08pOHJ8cYaDjvj7v5yRZYJCp2quhPB5CS0eWMoglxoM6j7PuezydXYkA.txLTAM-ARQpEIlLlqLl5gw.L5J1v8GZ77ZkLuBk-kkKNBtFkXyDWVr3DqUEAGiExcUxe3HdbvTORy2GcOM_NIlEme7M9hwAeGorvW4Na9jnMwtJXeVje6kBdWbIcLNZUufQ4CyWIolbhKUqiFxo9qgDz9O09QJ3h0jjN_K4B_bnNgP1Bv0iAi2ETLpVXOhVLXCe4ztLK-GyaLmCH8oc2nYSnG9g7icy03QAT2zqJm0SceAs-UE6et6WpV-EKrEpjztg1mbWrE5vimGUM2Q7lRJiZMZpCBni_zsMnWPnBROql1mTrojogmrBAmVarcu264zB7y9Vr2B-rdi8rVG1a5X9yFmqA27CvLxbpXjb5YmcWagWAzBIr1WiZDc5BD00L8wwULNGxadZcqAT38vdkzrLoGgoPn2lJPoK424prYod7QXinjq8WtdCb7TaIpFvt7OQFV_FfXpG3nbRl5V2hj4mfS5BcN0GNHWmdL3rCXXpxA --format "mp4 pdf pptx ppt html"   --download-quizzes --download-notebooks   --video-resolution 720p YOUR_COURSE_NAME
 ```
 ---
-```
-
-You can now copy and paste this directly into your `README.md`. Let me know if further adjustments are needed!
